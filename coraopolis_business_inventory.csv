@@ -1,0 +1,260 @@
+company_name,address,street,business_ownership,business_type,naics_description,sic_description,sales,rent_expenses,sq_footage,latitude,longitude
+Chem-Dry,2516 State Ave,State Avenue,Private,Home Remodel & Repair,Carpet And Upholstery Cleaning Services,Carpet & Rug Cleaners,351000,Less than 10k,1500-2499,40.504997,-80.146421
+Pinnacle Systems Inc,2504 State Ave,State Avenue,Private,Professional Service & Consulting,"Process, Physical Distribution, And Logistics Cons",Business Management Consultants,546000,10k-25k,2500-4999,40.505524,-80.146935
+Triad Controls Inc,2504 State Ave,State Avenue,Private,Retail,"Electrical Apparatus And Equipment, Wiring Supplie",Controls Control Systs/Regulators (Whls),3724000,10k-25k,2500-4999,40.505524,-80.146935
+Best Hydraulic Wrench Inc,2410 State Ave,State Avenue,Private,Industry,Industrial Machinery And Equipment Merchant Wholes,Hydraulic Equipment & Supplies (Whls),2358000,10k-25k,1500-2499,40.506054,-80.149139
+Church Of Christ,1644 State Ave,State Avenue,Private,Religious Organization,Religious Organizations,Churches,0,,1500-2499,40.512498,-80.153106
+Graff's Service Station,1601 5th Ave,5th Avenue,Private,Service Station,Other Gasoline Stations,Service Stations-Gasoline & Oil,2634000,Less than 10k,1-1499,40.513663,-80.153386
+Nicco's Pizzeria,1610 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Pizza,254000,10k-25k,1500-2499,40.513225,-80.153424
+Atm,1530 4th Ave,4th Avenue,Private,Service Station,Commercial Banking,Automated Teller Machines,0,,,40.514271,-80.153557
+Atm,1602 5th Ave,5th Avenue,Private,Service Station,Commercial Banking,Automated Teller Machines,0,,,40.513309,-80.153685
+Speedy Food Mart,1602 5th Ave,5th Avenue,Private,Retail,Convenience Stores,Convenience Stores,414000,Less than 10k,1500-2499,40.513309,-80.153685
+Big Shot Bobs,1534 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,254000,Less than 10k,1500-2499,40.513449,-80.154119
+Edwards Physical Therapy,1541 State Ave,State Avenue,Private,Healthcare,"Offices Of Physical, Occupational And Speech Thera",Physical Therapists,275000,10k-25k,1500-2499,40.513293,-80.154315
+Montour Hotel,1500 4th Ave,4th Avenue,Private,Hotels & Motels,Hotels (Except Casino Hotels) And Motels,Hotels & Motels,690000,Less than 10k,2500-4999,40.514797,-80.154659
+Citizen Care Co,1425 4th Ave,4th Avenue,Private,Professional Service & Consulting,Employment Placement Agencies,Employment Agencies & Opportunities,1465000,50k-100k,10000-19999,40.515382,-80.154976
+Jenkins Corp,1517 State Ave,State Avenue,Private,Merchandise,All Other General Merchandise Stores,Variety Stores,289000,Less than 10k,1500-2499,40.513619,-80.15518
+T & T Contractors,1511 State Ave,State Avenue,Private,Home Remodel & Repair,New Single-Family Housing Construction (Except For,General Contractors,1721000,Less than 10k,1500-2499,40.513619,-80.15518
+Automation X,1420 4th Ave,4th Avenue,Private,Industry,Industrial Machinery And Equipment Merchant Wholes,Machinery-Rebuilding & Repairing (Whls),5186000,25k-50k,5000-9999,40.514902,-80.155276
+R Dicicco Home Improvements,1420 4th Ave,4th Avenue,Private,Home Remodel & Repair,New Single-Family Housing Construction (Except For,General Contractors,1721000,10k-25k,2500-4999,40.514902,-80.155276
+Montour True Value Hardware,1503 5th Ave,5th Avenue,Private,Retail,Hardware Stores,Hardware-Retail,472000,Less than 10k,1-1499,40.51413,-80.155426
+Eger Eye Group,1501 State Ave,State Avenue,Private,Healthcare,Offices Of Optometrists,Optometrists OD,2292000,100k-250k,20000-39999,40.513945,-80.155624
+Eger Eye Group,1501 State Ave,State Avenue,Private,Healthcare,Offices Of Optometrists,Optometrists OD,344000,,,40.513945,-80.155624
+Eger Eye Group,1501 State Ave,State Avenue,Private,Healthcare,Offices Of Optometrists,Optometrists OD,344000,,,40.513945,-80.155624
+"Ewonce, Amber OD",1501 State Ave,State Avenue,Private,Healthcare,Offices Of Optometrists,Optometrists OD,344000,,,40.513945,-80.155624
+Jack W Anderson,1423 5th Ave,5th Avenue,Private,Unclassified,Unclassified Establishments,Nonclassified Establishments,0,,1500-2499,40.514545,-80.155624
+Pave Rite,1423 5th Ave,5th Avenue,Private,Professional Service & Consulting,All Other Specialty Trade Contractors,Asphalt Paving Contractors,610000,10k-25k,1-1499,40.514545,-80.155624
+Triple Crown Training LLC,1403 4th Ave,4th Avenue,Private,Fitness,All Other Amusement And Recreation Industries,Sports Instruction,459000,10k-25k,2500-4999,40.515701,-80.155668
+Deramo Beverage Co,1404 4th Ave,4th Avenue,Private,Breweries & Distilleries,Other Grocery And Related Products Merchant Wholes,Beverages (Whls),3737000,Less than 10k,1500-2499,40.5151,-80.15594
+Tiffany's Towing,1365 4th Ave,4th Avenue,Private,Automotive,Motor Vehicle Towing,Wrecker Service,305000,10k-25k,1-1499,40.515903,-80.15623
+Montour Industrial Supply,1400 2nd Ave,2nd Avenue,Private,Industry,Plumbing And Heating Equipment And Supplies (Hydro,Plumbing Fixtures & Supplies-Wholesale,14403000,10k-25k,10000-19999,40.517642,-80.156439
+Shea Manufacturing Inc,1400 2nd Ave,2nd Avenue,Private,Industry,Fluid Power Valve And Hose Fitting Manufacturing,Fluid Power Valves/Hose Fittings (Mfrs),2259000,10k-25k,10000-19999,40.517642,-80.156439
+Shannon's Automotive,1349 4th Ave,4th Avenue,Private,Automotive,General Automotive Repair,Automobile Repairing & Service,257000,Less than 10k,1-1499,40.515987,-80.156749
+Milton J Klein Do PC,1352 5th Ave,5th Avenue,Private,Healthcare,Offices Of Physicians (Except Mental Health Specia,Physicians & Surgeons,506000,,1500-2499,40.514732,-80.157532
+Steiner Realty Inc,1347 State Ave,State Avenue,Private,Real Estate,Offices Of Other Holding Companies,Holding Companies (Non-Bank),3620000,,5000-9999,40.514331,-80.15787
+Green Maple Enterprises LLC,1331 5th Ave,5th Avenue,Private,Professional Service & Consulting,All Other Support Services,Business Services NEC,185000,25k-50k,2500-4999,40.515479,-80.158218
+Service Pro-North Washington,1331 5th Ave,5th Avenue,Private,Professional Service & Consulting,Other Scientific And Technical Consulting Services,Government-Relations Consultants,782000,10k-25k,5000-9999,40.515479,-80.158218
+Servpro,1331 5th Ave,5th Avenue,Branch of Public Company,Home Remodel & Repair,Residential Remodelers,Water Damage Restoration-Residential,2410000,25k-50k,2500-4999,40.515479,-80.158218
+SERVPRO Of North Washington,1331 5th Ave,5th Avenue,Branch of Public Company,Home Remodel & Repair,Residential Remodelers,Water Damage Restoration-Residential,6196000,50k-100k,10000-19999,40.515479,-80.158218
+Anthony J Sanvito Funeral Home,1316 4th Ave,4th Avenue,Private,Funeral Homes And Funeral Services,Funeral Homes And Funeral Services,Funeral Directors,546000,10k-25k,1-1499,40.516062,-80.158355
+Autumn Lane Assisted Living,1325 5th Ave,5th Avenue,Private,Professional Service & Consulting,Assisted Living Facilities For The Elderly,Residential Care Homes,0,50k-100k,20000-39999,40.515564,-80.158465
+Borough Of Coraopolis,1301 4th Ave # 100,4th Avenue,Private,Government Office,Legislative Bodies,Government Offices-City/Village & Twp,0,,10000-19999,40.516663,-80.158607
+Coraopolis Boro Secretary,1301 4th Ave # 100,4th Avenue,Private,Government Office,Legislative Bodies,Government Offices-City/Village & Twp,0,,40000-99999,40.516663,-80.158607
+Civil Design Solutions Inc,1331 State Ave,State Avenue,Private,Professional Service & Consulting,Engineering Services,Engineers-Civil,1751000,50k-100k,5000-9999,40.514849,-80.158764
+St Joseph Parish,1304 4th Ave,4th Avenue,Private,Religious Organization,Religious Organizations,Religious Organizations,0,,1-1499,40.516508,-80.158783
+St Joseph Roman Catholic Chr,1304 4th Ave,4th Avenue,Private,Religious Organization,Religious Organizations,Churches,0,,1500-2499,40.516508,-80.158783
+Law Offices Of Max Feldman,1322 5th Ave,5th Avenue,Private,Professional Service & Consulting,Offices Of Lawyers,Attorneys,738000,50k-100k,1500-2499,40.515212,-80.158915
+Pa Family Law Help,1322 5th Ave,5th Avenue,Private,Professional Service & Consulting,Offices Of Lawyers,Attorneys,369000,,,40.515212,-80.158915
+Master Machine,1220 2nd Ave,2nd Avenue,Private,Automotive,Machine Shops,Machine Shops (Mfrs),342000,Less than 10k,2500-4999,40.517872,-80.159065
+Pizzeria,1225 4th Ave,4th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Pizza,254000,Less than 10k,1500-2499,40.517075,-80.159365
+Ohio Valley Health Ctr,1308 5th Ave,5th Avenue,Private,Healthcare,Offices Of Physicians (Except Mental Health Specia,Physicians & Surgeons,674000,25k-50k,1500-2499,40.515395,-80.159381
+Fsi North America Inc,1230 4th Ave,4th Avenue,Private,Non-profit,Other Social Advocacy Organizations,Non-Profit Organizations,0,10k-25k,2500-4999,40.5165,-80.159485
+Greystone Theological Inst,1305 State Ave,State Avenue,Private,Unclassified,Unclassified Establishments,Nonclassified Establishments,0,,1500-2499,40.515311,-80.159653
+Immanuel Orthodox Presbyterian,1305 State Ave,State Avenue,Private,Religious Organization,Religious Organizations,Churches,0,,1500-2499,40.515311,-80.159653
+Essex Salon & Spa,1228 4th Ave,4th Avenue,Private,Salons & Holistic Wellness Services,Beauty Salons,Beauty Salons,134000,Less than 10k,1-1499,40.516591,-80.159746
+Zion Evangelical Lutheran Chr,1305 State Ave,State Avenue,Private,Religious Organization,Religious Organizations,Churches,0,,1500-2499,40.515139,-80.159977
+Rl Bolea Inc,1209 4th Ave,4th Avenue,Private,Automotive,Petroleum And Petroleum Products Merchant Wholesal,Oils-Fuel (Whls),132733000,100k-250k,20000-39999,40.517215,-80.160043
+Kuhlman's Lawnmowers Sales,1233 State Ave,State Avenue,Private,Home Remodel & Repair,Outdoor Power Equipment Stores,Lawn & Garden Equip & Supplies-Retail,334000,Less than 10k,1-1499,40.515395,-80.160115
+Stay Gold Tattoo,1207 4th Ave,4th Avenue,Private,Salons & Holistic Wellness Services,Other Personal Care Services,Tattooing,43000,Less than 10k,1-1499,40.51723,-80.160193
+Bachmans Builders Inc,1200 4th Ave,4th Avenue,Private,Professional Service & Consulting,Commercial And Institutional Building Construction,Building Contractors,2410000,10k-25k,2500-4999,40.516987,-80.160607
+Suburban Landscape-Floral Shpp,1210 5th Ave,5th Avenue,Private,Retail,Florists,Florists-Retail,353000,10k-25k,1500-2499,40.515915,-80.160703
+Presbyterian Church-Coraopolis,1201 5th Ave,5th Avenue,Private,Religious Organization,Religious Organizations,Churches,0,,20000-39999,40.516431,-80.16072
+Aero Tech Designs,1132 4th Ave,4th Avenue,Private,Retail,Clothing Accessories Stores,Fashion Designers,1768000,25k-50k,5000-9999,40.51722,-80.160927
+Bolea Oil,1101 4th Ave,4th Avenue,Private,Automotive,General Automotive Repair,Automobile Repairing & Service,129000,Less than 10k,1-1499,40.51786,-80.161697
+Goodyear Auto Svc Ctr,1101 4th Ave,4th Avenue,Branch of Public Company,Automotive,General Automotive Repair,Automobile Repairing & Service,1028000,Less than 10k,1-1499,40.51786,-80.161697
+Pro Tech Automotive,1101 4th Ave,4th Avenue,Private,Automotive,Tire Dealers,Tire-Dealers-Retail,3401000,100k-250k,40000-99999,40.51786,-80.161697
+Protech Auto Group Inc-Crpls,1101 4th Ave,4th Avenue,Private,Automotive,All Other Automotive Repair And Maintenance,Tire Service,1271000,Less than 10k,1-1499,40.51786,-80.161697
+Wine & Sprits Stores,1110 4th Ave,4th Avenue,Private,Retail,"Beer, Wine, And Liquor Stores",Liquors-Retail,1845000,Less than 10k,1-1499,40.517331,-80.161734
+Kitchen Innovations,1108 4th Ave,4th Avenue,Private,Home Remodel & Repair,Wood Kitchen Cabinet And Countertop Manufacturing,Kitchen Cabinets & Equipment-Household,778000,Less than 10k,1500-2499,40.517373,-80.16184
+Heritage Valley Health System,1105 5th Ave,5th Avenue,Private,Healthcare,Direct Health And Medical Insurance Carriers,Hospital & Medical Service Plans,8509000,50k-100k,5000-9999,40.51698,-80.162232
+Recognition Award & Trophy,1105 5th Ave,5th Avenue,Private,Retail,All Other Miscellaneous Store Retailers (Except To,Trophies Awards & Medals,265000,Less than 10k,2500-4999,40.51698,-80.162232
+Pizza Plaza,1110 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Pizza,102000,Less than 10k,1500-2499,40.51642,-80.162332
+Tiffany R Battaglini Ins,1108 5th Ave,5th Avenue,Private,"Financial, Insurance & Notary Services",Insurance Agencies And Brokerages,Insurance,155000,Less than 10k,1500-2499,40.516556,-80.162373
+Coraopolis Medical Ctr,1101 5th Ave # 3,5th Avenue,Private,Healthcare,Offices Of Dentists,Dentists,451000,,,40.51705,-80.162393
+Coraopolis Medical Ctr,1101 5th Ave # B,5th Avenue,Private,Healthcare,Offices Of Dentists,Dentists,451000,,1500-2499,40.51705,-80.162393
+Heritage Valley Medical Group,1101 5th Ave,5th Avenue,Private,Healthcare,All Other Miscellaneous Ambulatory Health Care Ser,Physicians & Surgeons Information Bureau,1937000,25k-50k,20000-39999,40.51705,-80.162393
+Heritage Valley Medical Group,1101 5th Ave # 2,5th Avenue,Private,Healthcare,Offices Of Physicians (Except Mental Health Specia,Physicians & Surgeons,506000,,,40.51705,-80.162393
+C M Technologies Inc,1026 4th Ave,4th Avenue,Private,Laboratory,Testing Laboratories,Electrical Power Systems-Testing,0,,1-1499,40.517647,-80.162499
+D J Hess Advertising,1100 5th Ave,5th Avenue,Private,Professional Service & Consulting,Other Services Related To Advertising,Advertising NEC,432000,10k-25k,5000-9999,40.516661,-80.162646
+Progressive Insurance,1100 5th Ave,5th Avenue,Branch of Public Company,"Financial, Insurance & Notary Services",Insurance Agencies And Brokerages,Insurance,155000,Less than 10k,1500-2499,40.516661,-80.162646
+Progressive Insurance-Wade,1100 5th Ave,5th Avenue,Private,"Financial, Insurance & Notary Services",Insurance Agencies And Brokerages,Insurance,310000,,,40.516661,-80.162646
+Wade Chabassol Insurance,1100 5th Ave,5th Avenue,Private,"Financial, Insurance & Notary Services",Insurance Agencies And Brokerages,Insurance,310000,Less than 10k,2500-4999,40.516661,-80.162646
+Atm,1017 4th Ave,4th Avenue,Private,Service Station,Commercial Banking,Automated Teller Machines,0,,,40.518247,-80.162676
+People Reach Marketing,1035 4th Ave,4th Avenue,Private,Professional Service & Consulting,Marketing Consulting Services,Marketing Programs & Services,1227000,25k-50k,5000-9999,40.518263,-80.162683
+Glamorous Productions,1038 5th Ave,5th Avenue,Private,Salons & Holistic Wellness Services,Beauty Salons,Beauty Salons,134000,Less than 10k,1-1499,40.51672,-80.16299
+"Wyberg, Garin",1040 5th Ave,5th Avenue,Private,Healthcare,"Offices Of Physical, Occupational And Speech Thera",Physical Therapists,55000,,1500-2499,40.516736,-80.162997
+Coraopolis Cash Market,1017 4th Ave,4th Avenue,Private,Supermarket & Groceries,Supermarkets And Other Grocery (Except Convenience,Grocers-Retail,10329000,50,40000-99999,40.518151,-80.163
+Coraopolis True Value Hardware,1029 5th Ave,5th Avenue,Private,Retail,Hardware Stores,Hardware-Retail,943000,Less than 10k,1500-2499,40.51729,-80.163045
+Bosphorus Enterprises Inc,1011 4th Ave,4th Avenue,Private,Wireless Telecommunications,All Other Miscellaneous Store Retailers (Except To,Miscellaneous Retail Stores NEC,397000,Less than 10k,2500-4999,40.518426,-80.163124
+Cricket Wireless Auth Retailer,1011 4th Ave # T,4th Avenue,Branch of Public Company,Wireless Telecommunications,Wireless Telecommunications Carriers (Except Satel,Cellular Telephones (Services),3408000,100k-250k,1500-2499,40.518426,-80.163124
+Costantino R A Assoc,1025 5th Ave,5th Avenue,Private,Stationery And Office Supplies,Stationery And Office Supplies Merchant Wholesaler,Greeting Cards-Wholesale,3160000,Less than 10k,1500-2499,40.517352,-80.163195
+Dependable Tow Inc,1010 4th Ave,4th Avenue,Private,Wrecker Service,Motor Vehicle Towing,Wrecker Service,203000,Less than 10k,1-1499,40.517893,-80.163227
+Mc Donald's,1010 4th Ave,4th Avenue,Branch of Public Company,Restaurants & Taverns,Limited-Service Restaurants,Restaurants,2030000,100k-250k,2500-4999,40.517893,-80.163227
+Anchor & Anvil Coffee,1030 5th Ave,5th Avenue,Private,Bakeries & Coffee Shops,Snack And Nonalcoholic Beverage Bars,Coffee Shops,254000,Less than 10k,1500-2499,40.516867,-80.163266
+Cobblehaus Brewing Co,1021 5th Ave,5th Avenue,Private,Breweries & Distilleries,Breweries,Brewers (Mfrs),64090000,100k-250k,40000-99999,40.51741,-80.163337
+L H Boleky Co,1021 5th Ave,5th Avenue,Private,Professional Service & Consulting,"Electrical Apparatus And Equipment, Wiring Supplie",Controls Control Systs/Regulators (Whls),6516000,10k-25k,10000-19999,40.51741,-80.163337
+L F Gilberti Architects Inc,1028 5th Ave,5th Avenue,Private,Professional Service & Consulting,Architectural Services,Architects,776000,10k-25k,2500-4999,40.516896,-80.163344
+Just Great Looks,1005 4th Ave,4th Avenue,Private,Salons & Holistic Wellness Services,Beauty Salons,Beauty Salons,45000,Less than 10k,1-1499,40.51845,-80.163439
+Three Rivers Yoga Institute,1022 5th Ave,5th Avenue,Private,Fitness,All Other Miscellaneous Schools And Instruction,Yoga Instruction,777000,25k-50k,5000-9999,40.517036,-80.163467
+Xclusive Salon LLC,309 Mill St,Mill Street,Private,Salons & Holistic Wellness Services,Beauty Salons,Beauty Salons,134000,Less than 10k,1-1499,40.518513,-80.163498
+Anthony Jr's Pizzeria,1024 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Pizza,508000,10k-25k,2500-4999,40.516852,-80.16352
+Coraopolis Church-God In Chrst,1046 State Ave,State Avenue,Private,Religious Organization,Religious Organizations,Churches,0,,2500-4999,40.516433,-80.163536
+Janie's,1020 5th Ave,5th Avenue,Private,Snack & Nonalcoholic Beverage,Snack And Nonalcoholic Beverage Bars,Ice Cream Parlors,203000,Less than 10k,1-1499,40.516911,-80.163678
+Kim's Vape Loft,1016 5th Ave,5th Avenue,Private,Convenience Stores,Tobacco Stores,Cigar Cigarette & Tobacco Dealers-Retail,333000,Less than 10k,1500-2499,40.517109,-80.163712
+"Mancini, Judith",409 Mill St,Mill Street,Private,Healthcare,Offices Of Mental Health Practitioners (Except Phy,Social Workers,56000,,2500-4999,40.518053,-80.163734
+"Stage, Ginger R",409 Mill St,Mill Street,Private,Healthcare,Offices Of All Other Miscellaneous Health Practiti,Psychologists,55000,,1500-2499,40.518053,-80.163734
+Mr Appliance,415 Mill St,Mill Street,Private,Retail,Household Appliance Stores,Appliances-Household-Major-Dealers,1074000,25k-50k,1500-2499,40.517966,-80.163792
+Off The Avenue Antiques,1000 4th Ave,4th Avenue,Private,Antiques,Used Merchandise Stores,Antiques-Dealers,216000,Less than 10k,1-1499,40.518329,-80.163795
+Segneri's Italian Restaurant,314 Mill St,Mill Street,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,406000,Less than 10k,1500-2499,40.518611,-80.16386
+Brown & Abbott,402 Mill St,Mill Street,Private,Professional Service & Consulting,Offices Of Certified Public Accountants,Accountants,487000,Less than 10k,1-1499,40.518341,-80.163971
+Eger's Jewelers Inc,406 Mill St # 1,Mill Street,Private,Retail,Jewelry Stores,Jewelers-Retail,1621000,100k-250k,5000-9999,40.518264,-80.164006
+Anchor Seals Inc,920 2nd Ave # 1,2nd Avenue,Private,Industry,"Gasket, Packing, And Sealing Device Manufacturing",Gaskets-Manufacturers,1974000,10k-25k,10000-19999,40.519604,-80.164008
+Fluid Sealing Intl,920 2nd Ave # 1,2nd Avenue,Private,Professional Service & Consulting,Other Miscellaneous Durable Goods Merchant Wholesa,Manufacturers-Agents & Representatives,14680000,50k-100k,20000-39999,40.519604,-80.164008
+Gianni's Pizza & Wings,1009 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Pizza,254000,10k-25k,2500-4999,40.517518,-80.164016
+Zukos Pizza,1009 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,153000,Less than 10k,1-1499,40.517518,-80.164016
+Coraopolis Chief Of Police,1012 5th Ave,5th Avenue,Private,Government Office,Police Protection,Police Departments,0,,100000+,40.517053,-80.164033
+Coraopolis Mayor,1012 5th Ave,5th Avenue,Private,Government Office,Executive Offices,City Government-Executive Offices,0,,100000+,40.517053,-80.164033
+Coraopolis Police Dept,1012 5th Ave,5th Avenue,Private,Government Office,Police Protection,Police Departments,0,,100000+,40.517053,-80.164033
+Coraopolis Volunteer Fire Dept,1012 5th Ave,5th Avenue,Private,Government Office,Fire Protection,Fire Departments,0,,100000+,40.517053,-80.164033
+Original Roo Tees LLC,1005 5th Ave,5th Avenue,Private,Snack & Nonalcoholic Beverage,Snack And Nonalcoholic Beverage Bars,Doughnuts,237000,Less than 10k,1500-2499,40.517545,-80.164089
+Kiddie Land,427 Mill St,Mill Street,Private,Professional Service & Consulting,Child Day Care Services,Child Care Service,49000,Less than 10k,1-1499,40.517577,-80.164096
+Off The Avenue Antq-Cllctbls,427 Mill St,Mill Street,Private,Antiques,Used Merchandise Stores,Antiques-Dealers,216000,Less than 10k,1-1499,40.517577,-80.164096
+Victory Tech Sch Of Sci & Tech,1001 5th Ave,5th Avenue,Private,Education,Elementary And Secondary Schools,Schools,0,,40000-99999,40.517577,-80.164096
+Jon Swan Inc,929 2nd Ave,2nd Avenue,Private,Professional Service & Consulting,Commercial Printing (Except Screen And Books),Printers (Mfrs),587000,10k-25k,2500-4999,40.520117,-80.164101
+Swan Label & Tag Co,929 2nd Ave # A,2nd Avenue,Private,Industry,Paper Bag And Coated And Treated Paper Manufacturi,Labels-Paper (Mfrs),2397000,10k-25k,20000-39999,40.520117,-80.164101
+Home Base Inc,425 Mill St,Mill Street,Private,Professional Service & Consulting,Software Publishers,Computer Software,7258000,50k-100k,20000-39999,40.517719,-80.164108
+Athletes Readiness Ctr,948 4th Ave,4th Avenue,Private,Fitness,Fitness And Recreational Sports Centers,Health Clubs Studios & Gymnasiums,50000,Less than 10k,1500-2499,40.518349,-80.164215
+Military Spouse Magazine,429 Mill St,Mill Street,Private,Professional Service & Consulting,Periodical Publishers,Publishers-Magazine (Mfrs),818000,10k-25k,2500-4999,40.517626,-80.164234
+Vintage Revival,429 Mill St,Mill Street,Private,Antiques,Used Merchandise Stores,Antiques-Dealers,216000,Less than 10k,1-1499,40.517626,-80.164234
+American Risk Management,1004 5th Ave # 1,5th Avenue,Private,"Financial, Insurance & Notary Services",All Other Insurance Related Activities,Insurance Consultants & Advisors,465000,Less than 10k,1500-2499,40.517182,-80.164298
+E & C Svc Inc,1004 5th Ave # 200,5th Avenue,Private,Professional Service & Consulting,Executive Search Services,Executive Search Consultants,862000,10k-25k,40000-99999,40.517182,-80.164298
+Helping Hands Credit Repair,1004 5th Ave,5th Avenue,Private,Non-profit,Other Personal Care Services,Credit & Debt Counseling Services,129000,Less than 10k,1500-2499,40.517182,-80.164298
+Royal Hands Handyman Svc,1004 5th Ave,5th Avenue,Private,Home Remodel & Repair,Residential Remodelers,Handyman Services,345000,Less than 10k,1-1499,40.517182,-80.164298
+T Salvie Photography,1004 5th Ave,5th Avenue,Private,Professional Service & Consulting,"Photography Studios, Portrait",Photographers-Portrait,37000,Less than 10k,1500-2499,40.517182,-80.164298
+Anderson Construction-Rmdlng,944 4th Ave # A,4th Avenue,Private,Home Remodel & Repair,Residential Remodelers,Remodeling & Repairing Bldg Contractors,1721000,Less than 10k,1500-2499,40.518318,-80.164385
+Computer Investment Advice Inc,505 Mill St # 2,Mill Street,Private,Professional Service & Consulting,Software Publishers,Computer Software,2823000,25k-50k,5000-9999,40.517298,-80.164405
+Debenham Media Group,416 Mill St,Mill Street,Private,Professional Service & Consulting,"Software And Other Prerecorded Compact Disc, Tape,",Video Tape Duplication Service,1423000,25k-50k,5000-9999,40.517998,-80.164407
+Posh Studio,511 Mill St,Mill Street,Private,Salons & Holistic Wellness Services,Beauty Salons,Beauty Salons,134000,Less than 10k,1-1499,40.517242,-80.164444
+Keystone Martial Arts,422 Mill St,Mill Street,Private,Fitness,Sports And Recreation Instruction,Martial Arts Instruction,78000,Less than 10k,1500-2499,40.517871,-80.164495
+Snows Polaris-Victory South,931 4th Ave,4th Avenue,Private,Automotive,"Motorcycle, Atv, And All Other Motor Vehicle Deale",Motorcycles & Motor Scooters-Dealers,1290000,10k-25k,1-1499,40.519079,-80.164549
+Nira Associates Inc,950 5th Ave,5th Avenue,Private,Professional Service & Consulting,Engineering Services,Engineers-Construction,3752000,100k-250k,20000-39999,40.517372,-80.164734
+Nira Consulting Engineers Inc,950 5th Ave,5th Avenue,Private,Professional Service & Consulting,Engineering Services,Engineers-Consulting,6502000,100k-250k,40000-99999,40.517647,-80.164815
+ATM,925 4th Ave,4th Avenue,Private,Service Station,Commercial Banking,Automated Teller Machines,0,,,40.51901,-80.164832
+PNC Bank,925 4th Ave,4th Avenue,Branch of Public Company,"Financial, Insurance & Notary Services",Commercial Banking,Banks,919000,Less than 10k,1500-2499,40.51901,-80.164832
+Coraopolis Floor Covering Inc,941 5th Ave,5th Avenue,Private,Professional Service & Consulting,Tile And Terrazzo Contractors,Tile-Ceramic-Contractors & Dealers,153000,Less than 10k,1-1499,40.517987,-80.164866
+Be Active Physical Thrpy,938 4th Ave,4th Avenue,Private,Healthcare,"Offices Of Physical, Occupational And Speech Thera",Physical Therapists,275000,10k-25k,2500-4999,40.518516,-80.164887
+Stevens Woodworks,938 4th Ave,4th Avenue,Private,Industry,All Other Miscellaneous Store Retailers (Except To,Wood Products,529000,10k-25k,2500-4999,40.518516,-80.164887
+Mobility City,938 4th Ave,4th Avenue,Private,Healthcare,Home Health Equipment Rental,Disabled Persons Equipment & Supplies,283000,10k-25k,2500-4999,40.518516,-80.164887
+Sma Cory Pa LLC,1020 State Ave,State Avenue,Private,Real Estate,Lessors Of Residential Buildings And Dwellings,Apartments,535000,10k-25k,5000-9999,40.51657,-80.164918
+State Manor Apartments,1020 State Ave,State Avenue,Private,Real Estate,Lessors Of Residential Buildings And Dwellings,Apartments,713000,10k-25k,5000-9999,40.51657,-80.164918
+ATM,953 5th Ave,5th Avenue,Private,Service Station,Commercial Banking,Automated Teller Machines,0,,,40.518021,-80.164974
+Key Bank,953 5th Ave,5th Avenue,Branch of Public Company,"Financial, Insurance & Notary Services",Commercial Banking,Banks,1149000,10k-25k,2500-4999,40.518021,-80.164974
+Patz Legal,939 5th Ave,5th Avenue,Private,Professional Service & Consulting,Offices Of Lawyers,Attorneys,0,,1500-2499,40.518029,-80.164977
+Uncle Joe's Scuba,937 5th Ave,5th Avenue,Private,Fitness,Sports And Recreation Instruction,Diving Instruction,156000,Less than 10k,1-1499,40.51806,-80.165057
+Irriland Corp,901 2nd Ave,2nd Avenue,Private,Home Remodel & Repair,"Nursery, Garden Center, And Farm Supply Stores",Sprinklers-Garden & Lawn-Retail,1001000,10k-25k,2500-4999,40.520581,-80.165063
+N1 Properties LP,1010 State Ave,State Avenue,Private,Professional Service & Consulting,Residential Property Managers,Apartment Finding & Rental Service,427000,Less than 10k,1500-2499,40.516984,-80.165151
+Lviv European Kitchen Rstrnt,940 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,203000,10k-25k,1-1499,40.517554,-80.165184
+Lviv European Kitchen,940 5th Ave,5th Avenue,Private,Restaurants & Taverns,Caterers,Caterers,254000,10k-25k,1-1499,40.517554,-80.165184
+Coraopolis Bike Shop,938 5th Ave,5th Avenue,Private,Retail,Sporting Goods Stores,Bicycles-Dealers,171000,Less than 10k,1-1499,40.517589,-80.165264
+Jail House Saloon,929 5th Ave,5th Avenue,Private,Breweries & Distilleries,Drinking Places (Alcoholic Beverages),Bars,234000,10k-25k,1-1499,40.518048,-80.165281
+H&R Block,936 5th Ave # 1stfloor,5th Avenue,Branch of Public Company,Professional Service & Consulting,Tax Preparation Services,Tax Return Preparation & Filing,106000,Less than 10k,1500-2499,40.517615,-80.165342
+Doney's Auto Tag Svc,922 4th Ave,4th Avenue,Private,Professional Service & Consulting,All Other Support Services,Vehicle & Drivers Licensing Services,43000,Less than 10k,1-1499,40.518697,-80.165363
+Frags Tags & Travel,934 5th Ave,5th Avenue,Private,"Financial, Insurance & Notary Services",Offices Of Notaries,Notaries-Public,93000,Less than 10k,1-1499,40.517656,-80.165415
+Progressive Printing Inc,916 4th Ave,4th Avenue,Private,Professional Service & Consulting,Commercial Printing (Except Screen And Books),Printers (Mfrs),587000,10k-25k,2500-4999,40.518743,-80.165483
+Citywide Wireless,932 5th Ave,5th Avenue,Private,Wireless Telecommunications,Wireless Telecommunications Carriers (Except Satel,Cellular Telephones (Services),852000,Less than 10k,1500-2499,40.517719,-80.165527
+Emma Jeans Attic,930 5th Ave,5th Avenue,Private,Retail,Family Clothing Stores,Clothing-Retail,266000,10k-25k,2500-4999,40.517757,-80.165619
+Allegheny County Dist Justice,923 5th Ave # 1,5th Avenue,Private,Government Office,Legislative Bodies,Government Offices-County,0,,5000-9999,40.518293,-80.165669
+Anthony's Original Inc,923 5th Ave # 5,5th Avenue,Private,Supermarket & Groceries,Fresh Fruit And Vegetable Merchant Wholesalers,Fruits & Vegetables-Wholesale,40514000,50k-100k,40000-99999,40.518293,-80.165669
+Penn Tank Lines,865 2nd Ave,2nd Avenue,Private,Industry,"Specialized Freight (Except Used Goods) Trucking,",Trucking,5497000,100k-250k,40000-99999,40.520807,-80.165678
+Dollar General,926 5th Ave,5th Avenue,Branch of Public Company,Convenience Stores,All Other General Merchandise Stores,Variety Stores,1011000,25k-50k,5000-9999,40.517767,-80.165691
+Off The Hook Exotics Pet Shop,926 5th Ave,5th Avenue,Private,Retail,All Other Animal Production,Reptiles,184000,,1500-2499,40.517767,-80.165691
+Western Union Agent Location,926 5th Ave,5th Avenue,Branch of Public Company,"Financial, Insurance & Notary Services","Financial Transactions Processing, Reserve, And Cl",Money Transfer Service,1137000,10k-25k,2500-4999,40.517767,-80.165691
+Fastenal,910 4th Ave,4th Avenue,Branch of Public Company,Industry,Industrial Machinery And Equipment Merchant Wholes,Industrial Equipment & Supplies (Whls),2358000,50k-100k,20000-39999,40.518859,-80.165807
+Sewickley Savings Bank,901 4th Ave,4th Avenue,Private,"Financial, Insurance & Notary Services",Commercial Banking,Banks,1149000,10k-25k,2500-4999,40.519401,-80.165809
+Terry's Auto Detailing,906 4th Ave,4th Avenue,Private,Automotive,Car Washes,Automobile Detail & Clean-Up Service,146000,Less than 10k,1-1499,40.51904,-80.166001
+Coraopolis Applaince Repair,909 5th Ave,5th Avenue,Private,Professional Service & Consulting,Appliance Repair And Maintenance,Appliances-Household-Major-Repairing,628000,25k-50k,1500-2499,40.51849,-80.166211
+Red China,909 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,51000,Less than 10k,1-1499,40.51849,-80.166211
+Atm,879 4th Ave,4th Avenue,Private,Service Station,Commercial Banking,Automated Teller Machines,0,,,40.519651,-80.166301
+Fast Stop,879 4th Ave,4th Avenue,Private,Convenience Stores,Convenience Stores,Convenience Stores,1033000,10k-25k,2500-4999,40.519651,-80.166301
+USPS,914 5th Ave,5th Avenue,Private,Postal Service,Postal Service,Post Offices,0,,2500-4999,40.517963,-80.16639
+A F Paul Co,859 2nd Ave,2nd Avenue,Private,Industry,Machine Shops,Machine Shops (Mfrs),1707000,25k-50k,5000-9999,40.521074,-80.166416
+Mark S Saber Dmd,905 5th Ave,5th Avenue,Private,Healthcare,Offices Of Dentists,Dentists,451000,,1-1499,40.518334,-80.16657
+Wesbanco Bank,900 5th Ave,5th Avenue,Branch of Public Company,"Financial, Insurance & Notary Services",Commercial Banking,Banks,1609000,10k-25k,2500-4999,40.518136,-80.166574
+Back Burner,870 4th Ave,4th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,406000,10k-25k,2500-4999,40.519346,-80.166736
+Tri State Hose & Supply Co,865 4th Ave,4th Avenue,Private,Retail,Industrial Machinery And Equipment Merchant Wholes,Hydraulic Equipment & Supplies (Whls),4716000,10k-25k,1500-2499,40.519861,-80.166842
+Professional Pest Control,900 State Ave,State Avenue,Private,Professional Service & Consulting,Exterminating And Pest Control Services,Pest Control,122000,Less than 10k,1-1499,40.517882,-80.166976
+Rd Copeland LTD,867 5th Ave,5th Avenue,Private,Life Services,Funeral Homes And Funeral Services,Funeral Directors,1092000,25k-50k,1500-2499,40.518701,-80.167133
+ATM,852 5th Ave,5th Avenue,Private,Service Station,Commercial Banking,Automated Teller Machines,0,,,40.518319,-80.167157
+Jallad,852 5th Ave,5th Avenue,Private,Convenience Stores,Convenience Stores,Convenience Stores,620000,10k-25k,1500-2499,40.518319,-80.167157
+We Buy Any Car,853 4th Ave,4th Avenue,Private,Automotive,Used Car Dealers,Automobile Dealers-Used Cars,1090000,Less than 10k,1500-2499,40.520019,-80.167265
+Wen Spa,850 5th Ave # 1,5th Avenue,Private,Salons & Holistic Wellness Services,Fitness And Recreational Sports Centers,Health Spas,200000,Less than 10k,1500-2499,40.518377,-80.167403
+Zeke & Son Contractors Inc,865 5th Ave,5th Avenue,Private,Home Remodel & Repair,New Single-Family Housing Construction (Except For,General Contractors,1721000,10k-25k,1500-2499,40.518764,-80.16748
+Barto's Lounge,859 5th Ave,5th Avenue,Private,Breweries & Distilleries,Drinking Places (Alcoholic Beverages),Night Clubs,876000,10k-25k,2500-4999,40.51894,-80.16764
+Lennon Smith Souleret Engrng,846 4th Ave,4th Avenue,Private,Professional Service & Consulting,Engineering Services,Engineers-Consulting,20006000,500k+,100000+,40.519853,-80.167643
+Rakowski Plant Operations,846 4th Ave,4th Avenue,Private,Industry,Industrial And Commercial Fan And Blower And Air P,Fans-Industrial & Commercial-Mfrs,83000,Less than 10k,2500-4999,40.519603,-80.167724
+AUGUST Research Systems Inc,845 4th Ave # 5,4th Avenue,Private,Professional Service & Consulting,Marketing Research And Public Opinion Polling,Research Service,0,10k-25k,10000-19999,40.520211,-80.167743
+Farmers Insurance,845 4th Ave # 105,4th Avenue,Private,"Financial, Insurance & Notary Services",Insurance Agencies And Brokerages,Insurance,310000,Less than 10k,2500-4999,40.520211,-80.167743
+Farmers Insurance-Scott Klbrn,845 4th Ave # 105,4th Avenue,Private,"Financial, Insurance & Notary Services",Insurance Agencies And Brokerages,Insurance,310000,,,40.520211,-80.167743
+Hi Way Paving Inc,845 4th Ave # 1,4th Avenue,Private,Professional Service & Consulting,"Highway, Street, And Bridge Construction",Paving Contractors,1054000,Less than 10k,2500-4999,40.520211,-80.167743
+Rbs Consultants,845 4th Ave # 2,4th Avenue,Private,Professional Service & Consulting,Engineering Services,Engineers-Consulting,1001000,Less than 10k,2500-4999,40.520211,-80.167743
+Sam Auto Mechanic LLC,845 4th Ave,4th Avenue,Private,Automotive,General Automotive Repair,Automobile Repairing & Service,257000,10k-25k,1500-2499,40.520211,-80.167743
+Secured Med Waste,845 4th Ave # 3,4th Avenue,Private,Professional Service & Consulting,Other Management Consulting Services,Consultants-Business NEC,261000,Less than 10k,2500-4999,40.520211,-80.167743
+West Hills Escape Room,845 4th Ave # 2,4th Avenue,Private,Fitness,All Other Amusement And Recreation Industries,Escape Rooms,1199000,Less than 10k,2500-4999,40.520211,-80.167743
+Otto Law Group LLC,842 5th Ave,5th Avenue,Private,Professional Service & Consulting,Offices Of Lawyers,Attorneys,738000,10k-25k,1500-2499,40.518592,-80.167853
+Beach Bums,844 4th Ave,4th Avenue,Private,Salons & Holistic Wellness Services,Other Personal Care Services,Tanning Salons,43000,Less than 10k,1-1499,40.519794,-80.168014
+Grogan Beverage Distributors,840 4th Ave,4th Avenue,Private,Retail,Beer And Ale Merchant Wholesalers,Beer & Ale-Wholesale,5634000,10k-25k,2500-4999,40.519819,-80.168244
+Women In Christian Ministries,832 5th Ave,5th Avenue,Private,Religious Organization,Book Stores,Bibles,229000,Less than 10k,1500-2499,40.518781,-80.168275
+Garzony Inc,809 4th Ave,4th Avenue,Private,Home Remodel & Repair,"Automotive Body, Paint, And Interior Repair And Ma",Automobile Body-Repairing & Painting,128000,Less than 10k,1-1499,40.520545,-80.168607
+Army National Guard,835 5th Ave,5th Avenue,Private,Government Office,Legislative Bodies,Government Offices-State,0,,10000-19999,40.519538,-80.168803
+Commonwealth Of Pennsylvania,835 5th Ave,5th Avenue,Private,Retail,"Beer, Wine, And Liquor Stores",Liquors-Retail,2306000,50k-100k,2500-4999,40.519538,-80.168803
+Bubbles On 4th,805 4th Ave,4th Avenue,Private,Life Services,Coin-Operated Laundries And Drycleaners,Laundries-Self Service,213000,Less than 10k,1500-2499,40.520706,-80.169015
+Open Arms Healthcare,805 4th Ave,4th Avenue,Private,Healthcare,Home Health Care Services,Home Health Service,389000,Less than 10k,2500-4999,40.520706,-80.169015
+Papnnan's,800 4th Ave,4th Avenue,Private,Unclassified,Unclassified Establishments,Nonclassified Establishments,0,,1-1499,40.520508,-80.169678
+Coraopolis Garage Door Repair,809 5th Ave,5th Avenue,Private,Home Remodel & Repair,Other Building Material Dealers,Doors-Garage,1329000,10k-25k,2500-4999,40.519886,-80.169793
+Lobello's Restaurant,809 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,406000,10k-25k,1500-2499,40.519886,-80.169793
+Sauce Pot,807 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,102000,Less than 10k,1-1499,40.519917,-80.169868
+Champ Printing Co Inc,730 4th Ave,4th Avenue,Private,Professional Service & Consulting,Commercial Printing (Except Screen And Books),Printers (Mfrs),5867000,50k-100k,20000-39999,40.520494,-80.170131
+Klug Plumbing LLC,726 4th Ave,4th Avenue,Private,Home Remodel & Repair,"Plumbing, Heating, And Air-Conditioning Contractor",Plumbing Contractors,457000,Less than 10k,1-1499,40.520584,-80.170323
+BCMJ Controls Inc,701 4th Ave,4th Avenue,Private,Industry,Other Electronic Parts And Equipment Merchant Whol,Electronic Equipment & Supplies-Whls,14138000,50k-100k,10000-19999,40.521249,-80.170414
+Perpetual Enterprises Inc,701 4th Ave,4th Avenue,Private,Industry,All Other Miscellaneous Manufacturing,Manufacturers,1244000,10k-25k,20000-39999,40.521249,-80.170414
+Southbridge Emergency Med Svc,729 5th Ave,5th Avenue,Private,Healthcare,Freestanding Ambulatory Surgical And Emergency Cen,Clinics,1685000,50k-100k,10000-19999,40.520173,-80.170553
+Anexquisite Massage,732 5th Ave,5th Avenue,Private,Salons & Holistic Wellness Services,Other Personal Care Services,Massage Therapists,43000,Less than 10k,1-1499,40.519653,-80.170659
+C R S,401 Locust St,Locust Street,Private,Unclassified,Unclassified Establishments,Nonclassified Establishments,0,,1500-2499,40.52094,-80.171275
+"Muha, Kelly Pt",401 Locust St # 2a,Locust Street,Private,Healthcare,"Offices Of Physical, Occupational And Speech Thera",Physical Therapists,55000,,1500-2499,40.52094,-80.171275
+Policastro Construction,401 Locust St,Locust Street,Private,Professional Service & Consulting,Commercial And Institutional Building Construction,Swimming Pool Repair & Service,579000,Less than 10k,1500-2499,40.52094,-80.171275
+Aero Tech Designs,705 5th Ave # 1,5th Avenue,Private,Retail,Unclassified Establishments,Nonclassified Establishments,0,,1500-2499,40.52051,-80.171397
+Labella Luna,705 5th Ave,5th Avenue,Private,Salons & Holistic Wellness Services,Nail Salons,Manicuring,134000,Less than 10k,1500-2499,40.52051,-80.171397
+Station Auto Parts,404 Locust St,Locust Street,Private,Automotive,Automotive Parts And Accessories Stores,Automobile Parts & Supplies-Retail-New,2721000,50k-100k,2500-4999,40.521005,-80.171491
+Mike Weisner Auto Repair,415 Locust St,Locust Street,Private,Automotive,General Automotive Repair,Automobile Repairing & Service,129000,Less than 10k,1-1499,40.520671,-80.171506
+Phelps Outdoor Power Equipment,641 4th Ave,4th Avenue,Private,Retail,Outdoor Power Equipment Stores,Lawn Mowers,834000,10k-25k,2500-4999,40.521686,-80.171564
+Fratangelo Gardens,641 4th Ave,4th Avenue,Private,Home Remodel & Repair,Landscaping Services,Landscape Contractors,548000,Less than 10k,1500-2499,40.521686,-80.171564
+Tootsie's Diner,701 5th Ave,5th Avenue,Private,Restaurants & Taverns,Full-Service Restaurants,Restaurants,305000,Less than 10k,1500-2499,40.52053,-80.171603
+At Home Senior Svc,643 5th Ave,5th Avenue,Private,Healthcare,Home Health Care Services,Home Health Service,3053000,50k-100k,20000-39999,40.520658,-80.171819
+Caregogi,643 5th Ave,5th Avenue,Private,Healthcare,Home Health Care Services,Home Health Service,611000,10k-25k,5000-9999,40.520658,-80.171819
+Capri Glass Inc,700 5th Ave,5th Avenue,Private,Professional Service & Consulting,Other Building Material Dealers,Shower Doors & Enclosures,997000,10k-25k,1500-2499,40.520137,-80.171884
+Arena Painting Inc,628 5th Ave,5th Avenue,Private,Professional Service & Consulting,Painting And Wall Covering Contractors,Painting Contractors-Commercial & Ind,306000,Less than 10k,1-1499,40.520461,-80.172654
+Affordable Car & Truck Sales,601 4th Ave,4th Avenue,Private,Automotive,Used Car Dealers,Automobile Dealers-Used Cars,1090000,Less than 10k,1500-2499,40.52211,-80.172692
+Ccrs Holdings LLC,601 4th Ave,4th Avenue,Private,"Financial, Insurance & Notary Services",Offices Of Other Holding Companies,Holding Companies (Non-Bank),3620000,,10000-19999,40.52211,-80.172692
+Coraopolis Collision & Repair,601 4th Ave,4th Avenue,Private,Home Remodel & Repair,"Automotive Body, Paint, And Interior Repair And Ma",Automobile Body-Repairing & Painting,1144000,25k-50k,2500-4999,40.52211,-80.172692
+Choices Pregnancy Svc,626 5th Ave # 1,5th Avenue,Private,Healthcare,Family Planning Centers,Pregnancy Counseling Svc & Information,1102000,25k-50k,40000-99999,40.52051,-80.172779
+Applytech,615 5th Ave # 101,5th Avenue,Private,Industry,Other Miscellaneous Durable Goods Merchant Wholesa,Manufacturers-Agents & Representatives,5505000,25k-50k,10000-19999,40.521096,-80.172929
+Christopher Connolly,615 5th Ave,5th Avenue,Private,Professional Service & Consulting,Commercial Printing (Except Screen And Books),Printers (Mfrs),587000,Less than 10k,5000-9999,40.521096,-80.172929
+"Hoover, Paul M MD",615 5th Ave # 201,5th Avenue,Private,Healthcare,Offices Of Physicians (Except Mental Health Specia,Physicians & Surgeons,506000,,2500-4999,40.521096,-80.172929
+Imperial Trading LLC,615 5th Ave,5th Avenue,Private,Unclassified,Unclassified Establishments,Nonclassified Establishments,0,,2500-4999,40.521096,-80.172929
+Re/Max,615 5th Ave,5th Avenue,Branch of Public Company,Real Estate,Offices Of Real Estate Agents And Brokers,Real Estate,1387000,50k-100k,20000-39999,40.521096,-80.172929
+UTC Overseas Inc,615 5th Ave # 301,5th Avenue,Private,Professional Service & Consulting,Freight Transportation Arrangement,Freight-Forwarding,1920000,50k-100k,20000-39999,40.521096,-80.172929
+Visimo LLC,615 5th Ave # 202,5th Avenue,Private,Professional Service & Consulting,Unclassified Establishments,Federal Government Contractors,0,,20000-39999,40.521096,-80.172929
+Allstate Insurance-Mario De,614 5th Ave # S102,5th Avenue,Branch of Public Company,"Financial, Insurance & Notary Services",Insurance Agencies And Brokerages,Insurance,465000,Less than 10k,2500-4999,40.520699,-80.173251
+Dennis Piper & Assoc,614 5th Ave,5th Avenue,Private,"Financial, Insurance & Notary Services",Investment Advice,Financing Consultants,647000,Less than 10k,2500-4999,40.520699,-80.173251
+Depasquale Agency,614 5th Ave,5th Avenue,Private,"Financial, Insurance & Notary Services",Insurance Agencies And Brokerages,Insurance,619000,Less than 10k,2500-4999,40.520699,-80.173251
+Gotto Electric LLC,614 5th Ave,5th Avenue,Private,Professional Service & Consulting,Electrical Contractors And Other Wiring Installati,Electric Contractors,762000,Less than 10k,2500-4999,40.520699,-80.173251
+Studio 84,614 5th Ave,5th Avenue,Private,Professional Service & Consulting,Sound Recording Studios,Recording Studios,185000,Less than 10k,2500-4999,40.520699,-80.173251
+Dairy Queen,507 5th Ave,5th Avenue,Branch of Public Company,Retail,Snack And Nonalcoholic Beverage Bars,Ice Cream Parlors,305000,10k-25k,2500-4999,40.5219,-80.174876
+Squeegee Pro LLC,414 5th Ave,5th Avenue,Private,Home Remodel & Repair,All Other Specialty Trade Contractors,Window Cleaning,428000,Less than 10k,1-1499,40.522239,-80.176771
+C J Liller Painting,410 5th Ave,5th Avenue,Private,Professional Service & Consulting,Painting And Wall Covering Contractors,Painters,612000,Less than 10k,1-1499,40.522321,-80.176966
+Total Equipment Co,400 5th Ave,5th Avenue,Private,Industry,Commercial And Industrial Machinery And Equipment,Pumps-Repairing,0,,1-1499,40.522793,-80.177175
+Bella Bambini Cellos,1042 5th Ave,5th Avenue,Private,Breweries & Distilleries,Distilleries,Distillers (Mfrs),6433000,10k-25k,2500-4999,40.5065,-80.1902
+Brodhead Landscaping Supply,501 4th Ave,4th Avenue,Private,Professional Service & Consulting,Landscaping Services,Landscape Contractors,548000,Less than 10k,1500-2499,40.5065,-80.1902
+Charis 247 Community Church,1321 State Ave,State Avenue,Private,Religious Organization,Religious Organizations,Churches,0,,1500-2499,40.5065,-80.1902
+Fratangelo Gardens,501 4th Ave,4th Avenue,Private,Home Remodel & Repair,Landscaping Services,Landscape Contractors,110000,Less than 10k,1-1499,40.5065,-80.1902
+St Joseph Church,1301 5th Ave,5th Avenue,Private,Religious Organization,Religious Organizations,Churches,0,,2500-4999,40.5065,-80.1902
